@@ -125,10 +125,9 @@ ul {
     border: none;
     color: #002a61;
     position: fixed;
-    display: none;
     cursor: pointer;
     bottom: 20px;
-    right: 20px;
+    right: -40px;
     animation: bouncing 1.5s infinite;
     transition: var(--main-transition);
     z-index: 10;

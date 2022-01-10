@@ -2,9 +2,9 @@ let btn = document.querySelector("button");
 
 window.onscroll = function () {
     if (window.scrollY >= 800) {
-        btn.style.display = "block";
+        btn.style.right = "20px";
     } else {
-        btn.style.display = "none";
+        btn.style.right = "-40px";
     }
 };
 btn.onclick = function () {
