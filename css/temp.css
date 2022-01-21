@@ -127,7 +127,7 @@ ul {
     position: fixed;
     cursor: pointer;
     bottom: 20px;
-    right: -40px;
+    right: -60px;
     animation: bouncing 1.5s infinite;
     transition: var(--main-transition);
     z-index: 10;
